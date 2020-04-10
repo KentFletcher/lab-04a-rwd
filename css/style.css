@@ -1,0 +1,7 @@
+/*reset the design */
+@import "./reset.css";
+
+/*adding style*/
+@import "./base.css";
+@import "./layout.css";
+@import "./module.css";

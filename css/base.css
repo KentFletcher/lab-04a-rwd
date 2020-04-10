@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    color: beige;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    width: 100%;
+    flex-wrap: wrap;
+}
+
